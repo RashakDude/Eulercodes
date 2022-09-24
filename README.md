@@ -6,7 +6,7 @@ Each problem has been designed according to a "one-minute rule", which means tha
 
 ## Progress Tracker
 
-![](https://progress-bar.dev/59?width=500&title=Level-01-problems)
+![](https://progress-bar.dev/72?width=500&title=Level-01-problems)
 ![](https://progress-bar.dev/00?width=500&title=Level-02-problems)
 ![](https://progress-bar.dev/00?width=500&title=Level-03-problems)
 ![](https://progress-bar.dev/00?width=500&title=Level-04-problems)
