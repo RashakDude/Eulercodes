@@ -26,3 +26,14 @@ Each problem has been designed according to a "one-minute rule", which means tha
 ![Level-18-problems](https://progress-bar.dev/00?width=500&title=Level-18-problems)
 ![Level-19-problems](https://progress-bar.dev/00?width=500&title=Level-19-problems)
 ![Level-20-problems](https://progress-bar.dev/00?width=500&title=Level-20-problems)
+
+## How to contribute ?
+
+<ol>
+<li> Visit this <a href="https://projecteuler.net/">website</a>
+<li> Solve problems from different levels
+<li> Clone this repository
+<li> Add your solution
+<li> Update readme file
+<li> Send a pull request
+</ol>
